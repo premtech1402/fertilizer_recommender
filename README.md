@@ -22,7 +22,7 @@ This project predicts the most suitable **fertilizer** based on soil conditions,
 ## 🧠 Machine Learning Details
 
 - **Algorithm**: Random Forest Classifier  
-- **Dataset**: Open and Download the Fertilizer Prediction.csv from my repository and use it as the dataset  
+- **Dataset**: Open and Download the "**Fertilizer Prediction.csv**" from my repository and use it as the dataset  
 - **Output Fertilizers**:  
   - Urea  
   - DAP  
